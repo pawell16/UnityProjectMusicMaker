@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using TMPro; //to operate on TMP elements
 //using System.Diagnostics;
 
-public class music : MonoBehaviour
+public class main : MonoBehaviour
 {
     public bool android;
     private AudioClip[] instrument;
